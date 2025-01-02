@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../saveweb2zip-com-www-squeakycleannigeria-com/www.squeakycleannigeria.com/color"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "squeakycleannigeria.com-922",
+		"liveServer.settings.port": 5501
+	}
+}
